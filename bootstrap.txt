@@ -1,0 +1,13 @@
+Typography:
+-use class="lead" for emphasis
+-font alignment:
+  -class="text-center", "justify"
+
+Font folder:
+-icon folder: glyphicon
+  -use i element: can be used for icons with class="glyphicon"
+    -look up specific class for icon (two classes will be used)
+    -can set sizes for bootstrap icons: default is set for font and icons; use style.css to customzie and override bootstrap set;
+      -set color in the same way as fonts: color: red;
+bootstrap class to remove stuff: list-unstyled: will remove styled bullet points from UL/LIs
+list-inline
