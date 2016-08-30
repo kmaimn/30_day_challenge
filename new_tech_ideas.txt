@@ -1,0 +1,22 @@
+Wednesday-presentation:
+talk about the tech
+demo
+purpose
+benefits
+similar products
+
+Backend Technologies-
+Languages: PHP, Ruby, Python, Java
+
+Backend Frameworks-
+Ruby on Rails, Cake PHP,  Code Igniter
+
+Ruby on Rails
+mySQL
+Microsoft SQL Server
+CouchDB
+
+Ruby GEMS:
+Carrierwave,
+Paperclip,
+Refile,
