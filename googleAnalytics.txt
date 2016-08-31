@@ -1,0 +1,40 @@
+1. Google analytics
+
+2. Components: collection, configuration, processing, reporting
+
+        collection: collect user-interaction data
+        config/processing/reporting: access to data
+
+3. JavaScript library (prewritten js which allows easier development of js-based applications)
+
+4. Analytics for...
+        Websites/Web Apps
+        Mobile Apps
+
+5. Websites/Web Apps...
+        analytics.js : measures how users will interact with your website/web app
+
+6. Websites/Mobile Apps/Devices will have something called a propertyID, unique identifier used for tracking;
+
+7. Tracking snippets are sourced in a script tag - add it to every page that you want tracked
+      read somewhere that this could may be simplified by adding to the server-side? idk.
+      Partials?
+
+8. Does a bunch of stuff, but essentially defines a global function GA as a command queue that will get information for you and store it until you are ready to use it (i think..)
+
+9. GA() is a function that is also an object, so with that it has properties;
+
+10. Developer side, you can configure a lot of information that you want from the site (i think..)
+
+11. My experience is a dashboard (show a pic)
+
+12. Type of data analytics collects:
+        -The total time a user spends on your site.
+        -The time a user spends on each page and in what order those pages were visited.
+        -What internal links were clicked (based on the URL of the next pageview).
+        -The geographic location of the user.
+        -What browser and operating system are being used.
+        -Screen size and whether Flash or Java is installed.
+        -The referring site.
+
+13. How to check to see if someone is tracking you...
