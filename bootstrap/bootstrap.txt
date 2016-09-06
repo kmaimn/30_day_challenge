@@ -11,3 +11,6 @@ Font folder:
       -set color in the same way as fonts: color: red;
 bootstrap class to remove stuff: list-unstyled: will remove styled bullet points from UL/LIs
 list-inline
+
+
+LOOK INTO UI Angular for modal implementaiton!
