@@ -4,6 +4,6 @@
 ### -Bootstrap - look into Angular UI
 ### -Java
 ### -Python
-### -SQL
+### -SQL : explore other types?
 
-Possible text messy gong API?
+Possible text messaging API?
