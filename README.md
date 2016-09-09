@@ -6,4 +6,6 @@
 ### -Python
 ### -SQL : explore other types?
 
-Possible text messaging API?
+Possible text messaging API - look into twillo or text belt?
+
+Take UI into consideration: responsive elements?
