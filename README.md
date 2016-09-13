@@ -7,5 +7,7 @@
 ### -SQL : explore other types?
 
 Possible text messaging API - look into twillo or text belt?
+Emailing as a service instead of texting:
+http://javascript.tutorialhorizon.com/2015/07/02/send-email-node-js-express/
 
 Take UI into consideration: responsive elements?
